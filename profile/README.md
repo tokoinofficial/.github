@@ -10,3 +10,9 @@ To build a sustainable and successful blockchain ecosystem, to accelerate growth
 We at Tokoin aim to build a one-stop ecosystem of blockchain related products and services to further assist institutions to onboard blockchain technology for their needs. Our one-stop ecosystem will help to tackle issues from all of the institution's business aspects regarding technology, funding and business development. We currently provide these services and products:
 
 ![Tokoin's ecosystem](https://github.com/tokoinofficial/.github/blob/master/profile/products.png)
+
+### Community
+- Website: https://tokoin.io
+- Medium: https://medium.com/@tokoin
+- Telegram: https://t.me/tokoinglobal
+- Twitter: https://twitter.com/tokoinglobal
